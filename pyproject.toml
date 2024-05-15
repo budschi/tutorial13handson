@@ -111,4 +111,4 @@ where = ["src"]
 
 mypackage = "nomad_tutorial13following.schema_packages:mypackage"
 
-sintering = "nomad_sintering.schema_packages:sintering"
+sintering = "nomad_tutorial13following.schema_packages:sintering"
